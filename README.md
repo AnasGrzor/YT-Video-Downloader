@@ -18,7 +18,7 @@ Before running this script, you need to have Python and `yt-dlp` installed on yo
 ## Usage
 To use the script, run it from the command line and follow the prompts:
 ```bash
-python download.py
+python main.py
 ```
 Enter the YouTube video URL when prompted, and the script will download the video, saving it with the original title as the filename. To exit the program, type ‘exit’.
 
